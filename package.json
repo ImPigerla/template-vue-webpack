@@ -1,0 +1,16 @@
+{
+  "name": "template-vue-webpack",
+  "version": "1.0.0",
+  "description": "Vue整合webpack构建工具——基础版，是vuejs template的模版项目",
+  "main": "meta.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "webpack",
+    "template"
+  ],
+  "author": "Pigerla",
+  "license": "ISC"
+}
