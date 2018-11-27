@@ -1,8 +1,9 @@
 # 安装vue-cli
-$ npm install -g @vue/cli  或者  yarn global add @vue/cli
+
+    $ npm install -g @vue/cli  或者  yarn global add @vue/cli
 
 ## 安装init桥接工具
-npm install -g @vue/cli-init  或者  yarn global add @vue/cli-init
+    npm install -g @vue/cli-init  或者  yarn global add @vue/cli-init
 
 
 # 安装该模版
@@ -12,17 +13,17 @@ npm install -g @vue/cli-init  或者  yarn global add @vue/cli-init
 
 命令行安装
 
-$ vue init ImPigerla/template-vue-webpack [project-name]
+    $ vue init ImPigerla/template-vue-webpack [project-name]
 
 # 初始化
-$ cd project-name
-$ npm install 或者 yarn
+    $ cd project-name
+    $ npm install 或者 yarn
 
 # 开发模式
-$ npm run dev
+    $ npm run dev
 
 # 构建项目
-$ npm run build
+    $ npm run build
 
 # 构建监听
-$ npm run watch
+    $ npm run watch
