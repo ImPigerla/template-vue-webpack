@@ -4,7 +4,7 @@ module.exports = {
         "name": {
             "type": "string",
             "required": true,
-            "message": "Project name"
+            "message": "project-name"
         }
     },
     "filters": {

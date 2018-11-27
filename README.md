@@ -5,9 +5,14 @@ $ npm install -g @vue/cli  或者  yarn global add @vue/cli
 npm install -g @vue/cli-init  或者  yarn global add @vue/cli-init
 
 
-# 获取模版  -template 支持选项
-#  |-Project name 项目名称
-$ vue init https://github.com/ImPigerla/template-vue-webpack [project-name]
+# 安装该模版
+
+模版支持选项
+- project-name 项目名称
+
+命令行安装
+
+$ vue init ImPigerla/template-vue-webpack [project-name]
 
 # 初始化
 $ cd project-name
